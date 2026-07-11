@@ -7,8 +7,13 @@
     background-color: lightgray;
     padding: 40px 40px;
     line-height: 30px;
+    color: #333333;
 }
 
 img {
     border: 5px solid black;
+}
+
+h1 {
+    letter-spacing: 1px;
 }
